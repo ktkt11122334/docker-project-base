@@ -1,0 +1,6 @@
+.DS_Store
+*.class
+/mysql/settings/*
+/gradle-project/**/build
+.git
+
